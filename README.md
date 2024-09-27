@@ -52,11 +52,11 @@ The SecEval Dataset is publicly available for the research community. You can ac
 ## Citation
 
 If you use the SecEval Dataset in your research, please cite our work:
-<pre><code>@misc{secval2024,
+<pre><code>@inproceedings{secval2024,
   title={SecEval Dataset: A Comprehensive Benchmark for Evaluating Security Robustness of Large Language Models},
   author={Huining Cui and Wei Liu},
   year={2024},
   booktitle = {Proceedings of the 22nd Australasian Data Science and Machine Learning Conference (AusDM)},
-  url = {\url{https://github.com/VeraaaCUI/SecEval-Dataset}
+  url = {https://github.com/VeraaaCUI/SecEval-Dataset}
 }
 </code></pre>
