@@ -7,7 +7,7 @@ This Security Evaluation dataset, SecEval, covers a range of security domains, i
 During the dataset creation, we employed a multi-phase quality control process, including initial filtering by GPT, manual review, testing with Llama 3.1, and iterative human refinement to ensure relevance and accuracy.Our then evaluation highlights the vulnerabilities and defensive capabilities of leading models—Llama 3.1,Gemma 2, Mistral v0.3, DeepSeek-R1—under single-query and sustained multi-query attack scenarios. The experiments reveal that large language models vary significantly in theirability to withstand security-oriented manipulations, and that this resilience is heavily influenced by the specific questioning strategy, prompt type, and security domain under consideration. This analysis provides critical insights into model adaptability and security posture under prolonged threat exposure.
 ## Introduction
 
-The **SecEval Dataset** is a comprehensive collection of prompts designed to evaluate the robustness of Large Language Models (LLMs) against various prompt-based attack scenarios in security-sensitive domains. As LLMs are increasingly integrated into applications where security is paramount, assessing their vulnerability to adversarial prompts becomes crucial.
+The **SecEval Dataset** is a comprehensive collection of prompts designed to evaluate the robustness of LLMs against various prompt-based attack scenarios in security-sensitive domains. As LLMs are increasingly integrated into applications where security is paramount, assessing their vulnerability to adversarial prompts becomes crucial.
 
 ## Dataset Overview
 
