@@ -1,4 +1,4 @@
-# SecEval: A Security Evaluation Dataset for Large Language Models
+# SecEval: A Scenario-Based Security Evaluation Dataset for Large Language Models
 
 The increasing reliance on Large Language Models (LLMs) in security-sensitive domains necessitates a thorough evaluation of their robustness against adversarial attacks. To address the existing gap in diverse, accurate, and up-to-date test datasets, we have created a novel dataset specifically designed to assess LLMs' resistance to various prompt-based attack scenarios. 
 
